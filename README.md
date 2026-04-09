@@ -12,8 +12,16 @@ This project focuses on analyzing hospitality industry data to understand revenu
 ## 🛠 Tools & Technologies
 - Power BI (Data Visualization)
 - Microsoft Excel (Data Processing)
+
 ## 📁 Dataset
-https://github.com/Srilathapittam67/Hospitality-Data-Analysis/tree/49f96c8a69a4b85c672ffa60dd55451b1cf78bcf/Dataset
+The dataset used in this project is available in the `Dataset/` folder.
+
+It includes:
+- dim_date.csv
+- dim_hotels.csv
+- dim_rooms.csv
+- fact_bookings.csv
+- fact_aggregated_bookings.csv
 ## 📸 Dashboard Preview
 ![Dashboard](![Dashboard image](https://github.com/user-attachments/assets/c2297bb5-26e4-4ae9-b8ff-4147d14789bb)
 )
