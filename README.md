@@ -15,8 +15,7 @@ This project focuses on analyzing hospitality industry data to understand revenu
 ## 📁 Dataset
 https://github.com/Srilathapittam67/Hospitality-Data-Analysis/tree/49f96c8a69a4b85c672ffa60dd55451b1cf78bcf/Dataset
 ## 📸 Dashboard Preview
-![Dashboard](![Dashboard image](https://github.com/user-attachments/assets/baec154a-5874-4c8e-ac66-45ab49fedb16)
-)
+![Dashboard](Dashboard image.jpeg)
 ## 📊 Dashboard Highlights
 - Total Revenue: 1.7 Billion+
 - Occupancy Rate: 57.87%
